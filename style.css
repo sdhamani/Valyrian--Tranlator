@@ -3,6 +3,11 @@
     margin: 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+
+body{
+    font-family: 'Sansita Swashed', cursive;
+}
 
 .section {
     background-image: url("GOT.jpg");
