@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.section {
+    background-image: url("GOT.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+   }
+
+.header{
+    color: #4B5563;
+    text-align: center;
+    margin: auto;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+    height: 1vh;
+    font-size: 3rem;
+}
+
+#input{
+    background-color: #4B5563;
+    align-items: center;
+    border: 2px solid black;
+    width: 50%;
+    height: 10vh;
+    display: block;
+    margin: auto;
+    margin-top: 3rem;
+    font-size: 2rem;
+    padding: 0.5rem 0.5rem;
+}
+
+#output
+
+{   
+    
+    background-color: #4B5563;
+    align-items: center; 
+    border: 1px solid black;
+    width: 50%;
+    height: 10vh;
+    display: block;
+    margin: auto;
+    margin-top: 0.5rem; 
+    padding: 0.5rem 0.5rem;
+}
+
+
+#button{
+    padding: 1rem 1rem;
+    margin-top: 1rem;
+    text-align: center;
+    background-color: #4B5563;
+    border: black;
+    border-radius: 49px;
+    box-shadow: 28px 28px 56px #00e0e0, -28px -28px 56px #00ffff; 
+    margin-left: 24%;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem 2rem;
+    box-shadow: 5px 10px 8px rgb(231, 220, 220);
+    font-size: 1rem;
+
+}
+
+
+.footer{
+    /* background-color: #4B5563; */
+    color: #4B5563;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    padding: 1rem;
+    margin-top: 2rem
+}
